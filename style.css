@@ -1,0 +1,48 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 3%;
+}
+p{
+    color: #3E3E3E;
+    font-size: 18px;
+    font-weight: normal;
+}
+.heading-color{
+    color:#FFAD5A 
+}
+.top-heading-design{
+    border-left: 5px solid #ff5959;
+    padding-left: 5px;
+    font-size: 48px;
+    font-family: 'Yeseva One', serif;
+    font-weight: normal;
+}
+.sec-1{
+    display: flex;
+    margin: 10px;
+    margin-bottom: 5px;
+}
+.half-width{
+    width: 50%;
+    padding: 10px 10px;
+
+}
+.half-width img{
+    width: 65%;
+}
+.button{
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #ff5959;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5%;
+}
+.heading-sec2{
+    font-size: 48px;
+    font-family: Poppins;
+    text-align: center;
+}
