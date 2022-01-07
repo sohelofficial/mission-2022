@@ -1,8 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-top: 3%;
-    margin-left: 10%;
-    margin-right: 3%;
+    margin: 30px 130px;
 }
 p{
     color: #3E3E3E;
@@ -25,7 +23,7 @@ p{
     margin-bottom: 5px;
 }
 .half-width{
-    width: 50%;
+    width: 100%;
     padding: 10px 10px;
 
 }
@@ -45,4 +43,25 @@ p{
     font-size: 48px;
     font-family: Poppins;
     text-align: center;
+}
+.subsection-mvg{
+    width: 90%;
+}
+.subsection-mvg img{
+width: 40% ;
+}
+.column{
+    border: 1px solid none;
+    padding: 10px 15px;
+    border-radius: 7px;
+    margin: 10px;
+}
+#mission{
+    background: rgba(79, 157, 166, 0.1) 
+}
+#vision{
+    background: rgba(255, 89, 89, 0.1);
+}
+#goals{
+    background-color: #FFF4D6;
 }
