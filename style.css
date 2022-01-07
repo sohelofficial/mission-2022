@@ -17,7 +17,7 @@ p{
     font-family: 'Yeseva One', serif;
     font-weight: normal;
 }
-.sec-1{
+.display-flex{
     display: flex;
     margin: 10px;
     margin-bottom: 5px;
@@ -28,7 +28,7 @@ p{
 
 }
 .half-width img{
-    width: 65%;
+    width: 75%;
 }
 .button{
     font-size: 18px;
@@ -39,7 +39,7 @@ p{
     padding: 10px 30px;
     border-radius: 5%;
 }
-.heading-sec2{
+.heading-in-sec2{
     font-size: 48px;
     font-family: Poppins;
     text-align: center;
@@ -64,4 +64,13 @@ width: 40% ;
 }
 #goals{
     background-color: #FFF4D6;
+}
+.margin-bottom{
+    margin-bottom: 60px;
+}
+.sec-3{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 227px 227px;
+    background-position: left center;
 }
