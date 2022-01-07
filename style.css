@@ -80,3 +80,9 @@ width: 40% ;
     background-size: 200px 200px;
     background-position: bottom right;  
 }
+label{
+    display:block
+}
+#messasge{
+    width: 150%;
+}
