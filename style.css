@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 30px 130px;
+    margin: 30px 100px;
 }
 p{
     color: #3E3E3E;
@@ -12,8 +12,8 @@ p{
 }
 .top-heading-design{
     border-left: 5px solid #ff5959;
-    padding-left: 5px;
-    font-size: 48px;
+    padding-left: 6px;
+    font-size: 45px;
     font-family: 'Yeseva One', serif;
     font-weight: normal;
 }
@@ -46,6 +46,7 @@ p{
 }
 .subsection-mvg{
     width: 90%;
+    padding: 10px;
 }
 .subsection-mvg img{
 width: 40% ;
@@ -81,7 +82,7 @@ width: 40% ;
     background-position: bottom right;  
 }
 label{
-    display:block
+    display:block;
 }
 .footer-style{
     text-align: center;
@@ -97,4 +98,5 @@ footer{
 .footer-container{
     background-color: black;
     color: white;
+    width: 100%;
 }
