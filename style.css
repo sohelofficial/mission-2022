@@ -83,6 +83,18 @@ width: 40% ;
 label{
     display:block
 }
-#messasge{
-    width: 150%;
+.footer-style{
+    text-align: center;
+    font-family: lobster; 
+    color: white;   
+}
+.footer-last-sentence{
+    color: white;
+}
+footer{
+    text-align: center;
+}
+.footer-container{
+    background-color: black;
+    color: white;
 }
